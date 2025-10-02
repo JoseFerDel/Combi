@@ -18,17 +18,17 @@
 
 <h3>Ejemplo:</h3>
 Variaciones de 2 elementoa dentro de un total de 4 elelementos.  
- 
+  
 Total de elementos: 4  
 [1] [2] [3] [4]
-
+  
 Tamaño de grupos formados con esos 4 elementos (Sin repeticiones): 12
-
+  
 [1]--[2]   [2]--[1]   [3]--[1]   [4]--[1]               
 [1]--[3]   [2]--[3]   [3]--[2]   [4]--[2]  
 [1]--[4]   [2]--[4]   [3]--[3]   [4]--[3] 
-
-
+  
+  
 <h2> VARIACIONES CON REPTICIÓN </h2> 
 
 Determina cuantos grupos de m elementos se pueden crear 
