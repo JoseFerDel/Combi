@@ -19,7 +19,7 @@
 <h3>Ejemplo:</h3>
 Variaciones de 2 elementoa dentro de un total de 4 elelementos.
  
-Total de elementos: 4
+Total de elementos: 4  
 [1] [2] [3] [4]
 
 Tamaño de grupos formados con esos 4 elementos (Sin repeticiones): 12
